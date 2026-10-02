@@ -3,6 +3,8 @@
 ## Задание 1
 Скриншот systemctl status prometheus, где написано: prometheus.service — Prometheus Service Netology Lesson 9.4 — Долинин Илья Александрович:
 
+<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/83358dc4-7262-4d58-a998-c30e3fdb57ee" />
+
 
 ## Задание 2
 Скриншот systemctl status node-exporter, где написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — Долинин Илья Александрович:
