@@ -15,9 +15,11 @@
 ## Задание 3
 1) Скриншот конфигурации из интерфейса Prometheus вкладки Status > Configuration:
 
+<img width="1918" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/b9bad456-9e90-4063-aeb7-8052ddca5471" />
 
 
-2) Скриншот из интерфейса Prometheus вкладки Status > Targets, где видно минимум два эндпоинта:
+
+3) Скриншот из интерфейса Prometheus вкладки Status > Targets, где видно минимум два эндпоинта:
 
 
 
