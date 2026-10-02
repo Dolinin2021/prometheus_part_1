@@ -19,7 +19,7 @@
 
 
 
-3) Скриншот из интерфейса Prometheus вкладки Status > Targets, где видно минимум два эндпоинта:
+2) Скриншот из интерфейса Prometheus вкладки Status > Targets, где видно минимум два эндпоинта:
 
-
+<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/310964de-c5c5-4b66-a533-bc9319ece92e" />
 
