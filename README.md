@@ -9,6 +9,8 @@
 ## Задание 2
 Скриншот systemctl status node-exporter, где написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — Долинин Илья Александрович:
 
+<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/4554e1b7-e4dd-4a13-a96f-38fc134a34c4" />
+
 
 ## Задание 3
 1) Скриншот конфигурации из интерфейса Prometheus вкладки Status > Configuration:
